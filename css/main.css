@@ -62,17 +62,24 @@ footer {
   header {
     background-color: #ffccff;
   }
+  .col-3 {
+    height: 320px;
+    float: left;
+  }
 
   #column-1 {
     background-color: #ff80ff;
+    width: 50%;
   }
 
   #column-2 {
     background-color: #ff1aff;
+    width: 50%;
   }
 
   #column-3 {
     background-color: #cc00cc;
+    width: 100%;
   }
 
   footer {
@@ -87,17 +94,24 @@ footer {
   header {
     background-color: #b3fff0;
   }
+  .col-3 {
+    height: 320px;
+    float: left;
+  }
 
   #column-1 {
     background-color: #66ffe0;
+    width: 33.33%;
   }
 
   #column-2 {
     background-color: #1affd1;
+    width: 33.33%;
   }
 
   #column-3 {
     background-color: #00cca3;
+    width: 33.33%;
   }
 
   footer {
